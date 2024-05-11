@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "src/generated",
+        "./src/client",
+        "./utils/randomizers"
+    ]
+}
